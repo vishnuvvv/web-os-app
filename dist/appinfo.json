@@ -1,0 +1,9 @@
+{
+	"id": "com.yourcompany.enactapp",
+	"version": "1.0.0",
+	"vendor": "Your Name",
+	"type": "web",
+	"main": "index.html",
+	"title": "My Enact App",
+	"icon": "icon.png"
+}
